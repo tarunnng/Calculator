@@ -25,4 +25,4 @@ A simple and responsive web calculator built using **HTML**, **CSS (Bootstrap & 
 ## Deployment
 
 Live demo: **[]**  
-GitHub repo: **[]**
+GitHub repo: **[https://github.com/tarunnng/Calculator]**
