@@ -20,7 +20,7 @@ A simple and responsive web calculator built using **HTML**, **CSS (Bootstrap & 
 
 ## How to Run
 
-1. Open the `Calculator.html` file in any web browser.
+1. Open the `index.html` file in any web browser.
 
 ## Deployment
 
