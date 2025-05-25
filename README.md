@@ -24,5 +24,5 @@ A simple and responsive web calculator built using **HTML**, **CSS (Bootstrap & 
 
 ## Deployment
 
-Live demo: **[]**  
+Live demo: **https://calculatorproject00.netlify.app**  
 GitHub repo: **https://github.com/tarunnng/Calculator**
